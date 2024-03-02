@@ -10,7 +10,7 @@
 </tr>
 <tr>
  <td style="font-weight:bold;font-size:20pt;" align="center">Welcome To SBI</td>
-<td style="font-weight:bold;font-size:20pt;" align="right"><img src="SBI-logo.svg.png" width="16" height="16" border="0"></td>
+<td style="font-weight:bold;font-size:20pt;" align="left"><img src="SBI-logo.svg.png" width="32" height="32" border="2"></td>
 </tr>
 
 <tr>
