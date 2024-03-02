@@ -25,7 +25,7 @@ if(session.getAttribute("userid")==null)
 {
 %>
 <tr>
- <td style="font-weight:bold;font-size:20pt;" align="center"><a href="login.jsp" >Login</a></td>
+ <td style="font-weight:bold;font-size:20pt;" align="center"><a href="https://sbi.co.in/web/personal-banking/digital/whatsapp-banking" >Login</a></td>
 </tr>
 <tr>
 <td style="font-weight:bold;font-size:20pt;" align="center"><a href="saveuser.jsp">Register</a></td>
