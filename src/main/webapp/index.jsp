@@ -9,7 +9,7 @@
  <td>&nbsp;</td>
 </tr>
 <tr>
- <td style="font-weight:bold;font-size:20pt;" align="left"><img src="SBI-logo.svg.png" width="40" height="40" border="1"></td>
+ <td style="font-weight:bold;font-size:15pt;" align="left"><img src="SBI-logo.svg.png" width="32" height="32" border="1"></td>
  <td style="font-weight:bold;font-size:20pt;" align="center">Welcome To SBI</td>
 </tr>
 
